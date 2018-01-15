@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "npm start main=../app1/src/main.ts --prefix ../commons"
+  }
+}
